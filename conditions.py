@@ -106,9 +106,13 @@ except ValueError:
     print(type(str(7)))
     print(type(str(-91.34)))
 """
-szam = input()
-print(type(szam))
-if type(szam) == int:
- print(szam*3)
-else:
+#szam = input() # string class
+#szam = int(input()) egyból számként olvas be
+#szam = int(szam) a szamot intté alakítja
+
+try:
+    szam = input()
+    szam = int(szam)
+    print(szam*3)
+except ValueError:
     print("Nem szám")
