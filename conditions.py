@@ -96,3 +96,11 @@ try:
         print("jeles")
 except ValueError:
     print("nem számjegyekből állt a bemenet")
+
+    try:
+        print(type(float(input("Kérek egy valós számot: "))))
+    except ValueError:
+        print("Hibás bemenet")
+
+    print(type(str(7)))
+    print(type(str(-91.34)))
