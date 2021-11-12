@@ -9,9 +9,12 @@ if number % 2 == 0:
 else:
     print("A szám nem páros")
 
-number1= 3
+number1= 36
 number2 = 9
 if number1 % number2 == 0:
-    print("Az egyik szám osztható a másikkal.")
+    print("Az egyik szám osztható a másikkal")
 else:
-    print("A számok nem oszthatóak.")
+    if number2 % number1 == 0:
+        print("A másik szám osztható az elsővel.")
+    else:
+        print("A számok nem oszthatóak.")
