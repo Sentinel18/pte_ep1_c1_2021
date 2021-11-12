@@ -1,3 +1,4 @@
+"""
 number = 35
 if number > 100:
     print("A szám nagyobb, mint 100.")
@@ -104,3 +105,10 @@ except ValueError:
 
     print(type(str(7)))
     print(type(str(-91.34)))
+"""
+szam = input()
+print(type(szam))
+if type(szam) == int:
+ print(szam*3)
+else:
+    print("Nem szám")
