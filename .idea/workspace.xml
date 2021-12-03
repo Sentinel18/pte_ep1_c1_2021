@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa06ff24-12f0-45e6-a6c4-32d2a549c00f" name="Changes" comment="12.óra">
-      <change afterPath="$PROJECT_DIR$/ora12/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ora12/sajat_modul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ora12/feladat1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ora12/kutyak.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +50,8 @@
       <recent name="C:\Users\riker\Desktop\programok\python\pte_ep1_c1_2021\ora8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="String_kezeles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.feladat1">
+    <configuration name="feladat1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -62,7 +63,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ora12/String_kezeles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ora12/feladat1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listak" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="kutyak" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -104,7 +105,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ora12/listak.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ora12/kutyak.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,19 +179,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.String_kezeles" />
-      <item itemvalue="Python.listak" />
       <item itemvalue="Python.szotarak" />
       <item itemvalue="Python.kert" />
       <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.kutyak" />
+      <item itemvalue="Python.feladat1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.feladat1" />
+        <item itemvalue="Python.kutyak" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.kert" />
         <item itemvalue="Python.szotarak" />
-        <item itemvalue="Python.listak" />
-        <item itemvalue="Python.String_kezeles" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638530271294</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="12.óra">
+      <created>1638531537642</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1638531537642</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
