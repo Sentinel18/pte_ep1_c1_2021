@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa06ff24-12f0-45e6-a6c4-32d2a549c00f" name="Changes" comment="11.óra">
-      <change afterPath="$PROJECT_DIR$/ora11/peldak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ora12/String_kezeles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +49,20 @@
       <recent name="C:\Users\riker\Desktop\programok\python\pte_ep1_c1_2021\ora8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.peldak">
-    <configuration name="file_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pte_ep1_c1_2021" />
+  <component name="RunManager" selected="Python.String_kezeles">
+    <configuration name="String_kezeles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10ora" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\riker\Desktop\programok\python\pte_ep1_c1_2021\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ora12" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10ora/file_exercises.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ora12/String_kezeles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,19 +178,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.file_exercises" />
       <item itemvalue="Python.function" />
       <item itemvalue="Python.string_format" />
       <item itemvalue="Python.functionmake" />
       <item itemvalue="Python.peldak" />
+      <item itemvalue="Python.String_kezeles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.String_kezeles" />
         <item itemvalue="Python.peldak" />
         <item itemvalue="Python.functionmake" />
         <item itemvalue="Python.function" />
         <item itemvalue="Python.string_format" />
-        <item itemvalue="Python.file_exercises" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637926268330</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="11.óra">
+      <created>1637927999593</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1637927999593</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
